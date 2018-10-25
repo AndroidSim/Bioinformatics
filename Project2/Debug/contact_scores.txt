@@ -1,0 +1,58 @@
+alignment of leghemoglobin sequence into leghemoglobin structure:
+query sequence is top sequence and database structure is bottom sequence:
+
+-G-A--L---TESQA--A---L--VKSSWEE---FN--ANIPK-HTHR-FF--IL-VLE-IAP--A--AKDLFS--FLKG
+G-ALTESQAAL---VKSSWEEFNAN---I--PKHT-HRF-F--ILVL-EIAPAAKDLF-SFL-KGTSEV--PQ-NNPE--
+
+TSEVPQNNPE--LQA--H-AGKVFKLVYE--AA----IQ-LE--VTGV--VVTDATLKNLGSV---H---VSK--GVAD-
+L--Q------AHA-GKVFKL--VY-EAA-IQLEVTGVV-VT-DAT--LKNLG--S-V--H--VSKGVADAH--FPVVK-E
+
+AHFP-VVKE--AI--LKTIKE--VVGAKWSEELNSAWTIAYDE-LAI-VIKKE-MDDAA----
+AIL-KTI--KEVVGAK--W--SEEL-N-S---A--WT-IAY--DELAIVI---KK--EMDDAA
+
+alignment of leghemoglobin sequence into myoglobin structure:
+query sequence is top sequence and database structure is bottom sequence:
+
+-----G----A--LTESQ--A--ALVKSSWEE-FNAN-IPKHTHR--F-FI-LV--LEI--AP--A--AKDLFSFLKGTS
+MVLSEGEWQLVLHVW---AKVEADVA---G--HG-Q-DI--L-I-RLFKSHPETLEK-FDRF-KHLKTE--AE-MK----
+
+E---VPQNNPELQA-HAGKVFKLV--YEAAIQLE-----VTG--VV--VTDATLKN-LGS-VH-VSKGVAD-A--HFP--
+-ASED------L-KKHG--VT-VLTAL-GAI-L-KKKGHH--EAELKPLA-Q-S--HA--TKHKI---PI-KYLEFI-SE
+
+VVKE--AILK--T--IKEV---VGAK-WSEELNSA-WTI-AYDEL-AIV-IKKEMDD--A---A
+AI--IHVLH-SRHPGN--FGADA-Q-GA---M--NKA-LELF--RKDIAAK---Y--KELGYQG
+
+alignment of myoglobin sequence into leghemoglobin structure:
+query sequence is top sequence and database structure is bottom sequence:
+
+--M-VLSEGEW--QLV--L---H--VW--AKV--EADV-AGH-GQDI--LI-RLF-KSHPETL--EKFDRF-KHLKTEA-
+GALTES----QAA-LVKSSWEEFNANIPKH-THR-F-FILVLEI--APAAKD-LFS--F---LKG--T--SE-VP---QN
+
+EMKASEDLKKHGV--TVL--T-ALGAILKKKGH-HEA-----EL-KPL--AQSH--ATKHKIPIKY---L-EFISEA--I
+-N-P---E--L-QAH-AGKVFKLV-YEA----AIQ-LEVTGV-VV--TDAT--LKNLG-S-V-H-VSKGVA-DA--HFPV
+
+IH-VLH-SRHPGNF--GA--DA---QGAMNKALELFRKDIAA---KYKEL-GY---QG----
+VKEAILK--T---IKEVVGA-KWSE--EL--NS-AW---TIAYDE-L--AIVIKKE-MDDAA
+
+alignment of myoglobin sequence into myoglobin structure:
+query sequence is top sequence and database structure is bottom sequence:
+
+MV---LSEGEWQL--V--LH--V--WAKVEAD-V--AGHGQD--I-LIR-LFKS--HPETLEK--FDR--FK--H-LKTE
+MVLSEG----E-WQLVLHVWAKVEADV-A-G-HGQDILI---RLFKSH-PET--LEK---F--DRF--KHL-KTEAE-M-
+
+AE---MKASEDLKK-HGVTVLTALG--AILKKKGHHE-----AE--LKPL--AQSH-ATK-HK-IP--IKYLE-F---IS
+K-ASED-L---K--KH-G-VT-VL-TALGA----IL-KKKGHH-EAE--LKPL--AQS--HA-TK-HKI-PI-KYLEFI-
+
+E--AI--IHV-LHSR--HPGNFGAD--AQGA-MNKALE-LFRKD-I-A-AKYKEL-GYQ------G
+-SEAIIHVLHSRH--PGN---F-G-ADA--QGA--MN-KAL---ELFRKD-I--AAKY-KELGYQG
+
+T(i,j):
+global alignment
+1 = leghemoglobin and 2 = myoglobin
+
+database structure:	  1	  2	
+query sequence:
+	1			-1453.599976	-1484.000244	
+	2			-1367.500122	-1394.900146	
+
+
