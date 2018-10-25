@@ -1,0 +1,42 @@
+
+ --- SEQUENCE to sequence (local) ALIGNMENTS (not ordered)  --- 
+ 
+query= 4cms	match= 1mpp	energy= -558.50	length= 354	type= local(seq-seq) 
+
+.....d.i..1.i..d.....2.........3.........4.......i..5......   1 - 56
+GEVASVP-LTNY-LDSQYFGKIYLGTPPQEFTVLFDTGSSDFWVPSIYC-KSNACKNHQ   query
+GSVDT-PGLYDFDLE-EYAIPVSIGTPGQDFYLLFDTGSSDTWVPHKGCDNSEGCVGKR   match
+..... ....1.... .....2.........3.........4.........5.......   1 - 57
+
+...6.........7.........8.........9.....d...i.....i.i....1i.   57 - 111
+RFDPRKSSTFQNLGKPLSIHYGTGSMQGILGYDTVTVSNIVDI-QQTVG-L-STQEP-G   query
+FFDPSSSSTFKETDYNLNITYGTGGANGIYFRDSITVGG-ATVKQQTLAYVDNVSGPTA   match
+..6.........7.........8.........9...... ...0.........1.....   58 - 115
+
+.......i.i.........i.3...ii.ii...i..4.........5.........6i.   112 - 161
+DVFTYAE-F-DGILGMAYP-SLASE--Y--SIP-VFDNMMNRHLVAQDLFSVYMDRN-G   query
+EQSPDSELFLDGIFGAAYPDNTAMEAEYGDTYNTVHVNLYKQGLISSPVFSVYMNTNDG   match
+....2.........3.........4.........5.........6.........7....   116 - 174
+
+d.......7.........8.........ii.ii.........0...i......d....i   162 - 214
+QESMLTLGAIDPSYYTGSLHWVPVTVQQ--Y--WQFTVDSVTISGV-VVACEGGCQAI-   query
+-GGQVVFGGVNNTLLGGDIQYTDVLKSRGGYFFWDAPVTGVKIDGSDAVSFDG-AQAFT   match
+ .....8.........9.........0.........1.........2...... ...3.   175 - 231
+
+.....2.........3....i..i...4....d....5...ii.i.....6.....iii   215 - 265
+LDTGTSKLVGPSSDILNIQQ-AI-GATQNQYGEFDIDCDNL--S-YMPTVVFEING---   query
+IDTGTNFFIAPSSFAEKVVKAALPDATESQQG-YTVPCSKYQDSKTTFSLVLQKSGSSS   match
+........4.........5.........6... ......7.........8.........   232 - 289
+
+....7i..i.i......8i.i........9ii.........0.........1.......   266 - 317
+KMYPL-TP-S-AYTSQDQ-G-FCTSGFQSE--QKWILGDVFIREYYSVFDRANNLVGLA   query
+DTIDVSVPISKMLLPVDKSGETCMFIVLPDGGNQFIVGNLFLRFFVNVYDFGKNRIGFA   match
+9.........0.........1.........2.........3.........4........   290 - 348
+
+   348 - 317
+   query  (%align= 99.1  %ident= 35.3)
+   match  (%align= 97.5)
+   349 - 348
+
+
+ 

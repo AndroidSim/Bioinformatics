@@ -1,0 +1,307 @@
+
+ --- STRUCTURE to structure (local) ALIGNMENTS (not ordered)  --- 
+ 
+query= 1mba	match= 1babA	energy=  -0.38	length= 144	type= local(stru-stru) 
+
+.......1.........2.........3.........4.........5...d..d..6.   3 - 61
+SAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPKLR   query
+MELSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSH-GS-AQVK   match
+.........1.........2.........3.........4.........5. .. ....   1 - 57
+
+........7.........8.........9.........0.........1.........2   62 - 120
+DVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVASVA   query
+GHGKKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPA   match
+..6.........7.........8.........9.........0.........1......   58 - 116
+
+.........3.........4......   121 - 146
+APPAGADAAWTKLFGLIIDALKAAGA   query  (%align= 98.6  %ident=  9.7)
+EFTPAVHASLDKFLASVSTVLTSKYR   match  (%align=100.0)
+...2.........3.........4..   117 - 142
+
+
+ 
+query= 1mba	match= 1babB	energy=  -0.38	length= 146	type= local(stru-stru) 
+
+.........1.........2.........3.........4.........5.........   1 - 59
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPK   query
+VHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPK   match
+.........1.........2.........3.........4.........5.........   1 - 59
+
+6.........7.........8.........9.........0.........1........   60 - 118
+LRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVAS   query
+VKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHF   match
+6.........7.........8.........9.........0.........1........   60 - 118
+
+.2.........3.........4......   119 - 146
+VAAPPAGADAAWTKLFGLIIDALKAAGA   query  (%align=100.0  %ident= 11.0)
+GKEFTPPVQAAYQKVVAGVANALAHKYH   match  (%align=100.0)
+.2.........3.........4......   119 - 146
+
+
+ 
+query= 1mba	match= 1eca	energy=  -0.39	length= 141	type= local(stru-stru) 
+
+.....1.........2.....d...3.........4.........5.........6...   5 - 63
+AEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPKLRDV   query
+LSADQISTVQASFDKVKGDPV-GILYAVFKADPSIMAKFTQFAGKDLESIKGTAPFETH   match
+.........1.........2. ........3.........4.........5........   1 - 58
+
+......7.......d.8d.d......9.........0.........1.........2..   64 - 122
+SSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVASVAAP   query
+ANRIVGFFSKIIGE-LP-N-IEADVNTFVASHKPRGVTHDQLNNFRAGFVSYMKAHTDF   match
+.6.........7.. .. . ....8.........9.........0.........1....   59 - 114
+
+...d...3.........4.....   123 - 145
+PAGADAAWTKLFGLIIDALKAAG   query  (%align= 96.6  %ident= 19.9)
+AGA-EAAWGATLDTFFGMIFSKM   match  (%align=100.0)
+... ..2.........3......   115 - 136
+
+
+ 
+query= 1mba	match= 1ithA	energy=  -0.39	length= 143	type= local(stru-stru) 
+
+.........1.........2....i.....3.........4.........5........   1 - 58
+SLSAAEADLAGKSWAPVFANKNAN-GLDFLVALFEKFPDSANFFADFKGKSVADIKASP   query
+GLTAAQIKAIQDHWFLNIKGCLQAAADSIFFKYLTAYPGDLAFFHKFSSVPLYGLRSNP   match
+.........1.........2.........3.........4.........5.........   1 - 59
+
+.6.........7........d8d........9.........0.........1.......   59 - 117
+KLRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVA   query
+AYKAQTLTVINYLDKVVDAL-G-GNAGALMKAKVPSHDAMGITPKHFGQLLKLVGGVFQ   match
+6.........7......... . .........9.........0.........1......   60 - 116
+
+..2.........3.........4..   118 - 142
+SVAAPPAGADAAWTKLFGLIIDALK   query  (%align= 97.3  %ident= 16.2)
+EEFSADPTTVAAWGDAAGVLVAAMK   match  (%align=100.0)
+...2.........3.........4.   117 - 141
+
+
+ 
+query= 1mba	match= 1lh2	energy=  -0.39	length= 149	type= local(stru-stru) 
+
+.........1.........2.........3.........4.........5...d.....   1 - 59
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPK   query
+ALTESQAALVKSSWEEFNANIPKHTHRFFILVLEIAPAAKDLFSFLKGTSEVP-QNNPE   match
+........1.........2.........3.........4.........5.... .....   2 - 59
+
+6.........7.........8.....i..i..9.........0.........1......   60 - 116
+LRDVSSRIFTRLNEFVNNAANAGKMS-AM-LSQFAKEHVGFGVGSAQFENVRSMFPGFV   query
+LQAHAGKVFKLVYEAAIQLEVTGVVVTDATLKNLGSVHVSKGVADAHFPVVKEAILKTI   match
+6.........7.........8.........9.........0.........1........   60 - 118
+
+..i.2........i.3.........4.....   117 - 145
+AS-VAAPPAGADA-AWTKLFGLIIDALKAAG   query  (%align= 99.3  %ident= 22.8)
+KEVVGAKWSEELNSAWTIAYDELAIVIKKEM   match  (%align= 96.7)
+.2.........3.........4.........   119 - 149
+
+
+ 
+query= 1mba	match= 1mba	energy=  -0.50	length= 146	type= local(stru-stru) 
+
+.........1.........2.........3.........4.........5.........   1 - 59
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPK   query
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPK   match
+.........1.........2.........3.........4.........5.........   1 - 59
+
+6.........7.........8.........9.........0.........1........   60 - 118
+LRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVAS   query
+LRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVAS   match
+6.........7.........8.........9.........0.........1........   60 - 118
+
+.2.........3.........4......   119 - 146
+VAAPPAGADAAWTKLFGLIIDALKAAGA   query  (%align=100.0  %ident=100.0)
+VAAPPAGADAAWTKLFGLIIDALKAAGA   match  (%align=100.0)
+.2.........3.........4......   119 - 146
+
+
+ 
+query= 1mba	match= 2hbg	energy=  -0.37	length= 149	type= local(stru-stru) 
+
+.........1.........d........d3.........4.........5.........   1 - 59
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPK   query
+GLSAAQRQVIAATWKDIAG-ADNGAGVG-KKCLIKFLSAHPQMAAVFGFSGASDPGVAA   match
+.........1......... ........ ..3.........4.........5.......   1 - 57
+
+6.........7.........8.........9.........0.........1....i...   60 - 117
+LRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPG-FVA   query
+LGAKVLAQIGVAVSHLGDEGKMVAQMKAVGVRHKGYGNKHIKAQYFEPLGASLLSAMEH   match
+..6.........7.........8.........9.........0.........1......   58 - 116
+
+i..2.........3......i...4......   118 - 146
+-SVAAPPAGADAAWTKLFGL-IIDALKAAGA   query  (%align=100.0  %ident= 13.0)
+RIGGKMNAAAKDAWAAAYADISGALISGLQS   match  (%align=100.0)
+...2.........3.........4.......   117 - 147
+
+
+ 
+query= 1mba	match= 2lhb	energy=  -0.39	length= 143	type= local(stru-stru) 
+
+.........1.........2.........3.........4.........5...i.....   1 - 58
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVAD-IKASP   query
+PLSAAEKTKIRSAWAPVYSTYETSGVDILVKFFTSTPAAQEFFPKFKGLTTADELKKSA   match
+1.........2.........3.........4.........5.........6........   10 - 68
+
+.6.........7.........8.........9.....d...0....d....1.......   59 - 117
+KLRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVA   query
+DVRWHAERIINAVDDAVASMDDTEKMSMKLRNLSGKH-AKSFQVDP-EYFKVLAAVIAD   match
+.7.........8.........9.........0..... ....1... ......2.....   69 - 125
+
+..2.........3.........d..   118 - 142
+SVAAPPAGADAAWTKLFGLIIDALK   query  (%align= 97.3  %ident= 28.2)
+TVAAGDAGFEKLMSMICILLRS-AY   match  (%align= 94.0)
+....3.........4....... ..   126 - 149
+
+
+ 
+query= 1mba	match= 3sdhA	energy=  -0.39	length= 145	type= local(stru-stru) 
+
+.........1.........2.........3.........4.........i.........   1 - 58
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGK-SVADIKASP   query
+SVYDAAAQLTADVKKDLRDSWKVIGSDKKGNGVALMTTLFADNQETIGYFKRLGNVSQG   match
+.........1.........2.........3.........4.........5.........   1 - 59
+
+.6.........7.........8.........9.........0.........1.......   59 - 117
+KLRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVA   query
+MANDKLRGHSITLMYALQNFIDQLDNPDDLVCVVEKFAVNHITRKISAAEFGKINGPIK   match
+6.........7.........8.........9.........0.........1........   60 - 118
+
+..2.........3.........4....   118 - 144
+SVAAPPAGADAAWTKLFGLIIDALKAA   query  (%align= 98.6  %ident= 11.8)
+KVLASKNFGDKYANAWAKLVAVVQAAL   match  (%align=100.0)
+.2.........3.........4.....   119 - 145
+
+
+ 
+query= 1mba	match= 5mbn	energy=  -0.38	length= 150	type= local(stru-stru) 
+
+.........1.........2.........3.........4.........5.i.......   1 - 58
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSV-ADIKASP   query
+VLSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKFDRFKHLKTEAEMKASE   match
+.........1.........2.........3.........4.........5.........   1 - 59
+
+.6.........7.........8....i.....9.i..i......0.........1....   59 - 114
+KLRDVSSRIFTRLNEFVNNAANAGKM-SAMLSQF-AK-EHVGFGVGSAQFENVRSMFPG   query
+DLKKHGVTVLTALGAILKKKGHHEAELKPLAQSHATKHKIPIKYLEFISEAIIHVLHSR   match
+6.........7.........8.........9.........0.........1........   60 - 118
+
+....i.2.........3.........4.....   115 - 145
+FVAS-VAAPPAGADAAWTKLFGLIIDALKAAG   query  (%align= 99.3  %ident= 20.7)
+HPGDFGADAQGAMNKALELFRKDIAAKYKELG   match  (%align= 98.0)
+.2.........3.........4.........5   119 - 150
+
+
+ 
+query= 1mba	match= 2vhb_A	energy=  -0.39	length= 146	type= local(stru-stru) 
+
+.........1.........2.........3.........4.........5.........   1 - 59
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPK   query
+MLDQQTINIIKATVPVLKEHGVTITTTFYKNLFAKHPEVRPLFDMGRQESLEQPKALAM   match
+.........1.........2.........3.........4.........5.........   1 - 59
+
+6.........7.........8.........9.........0.........1........   60 - 118
+LRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVAS   query
+TVLAAAQNIENLPAILPAVKKIAVKHCQAGVAAAHYPIVGQELLGAIKEVLGDAATDDI   match
+6.........7.........8.........9.........0.........1........   60 - 118
+
+.2.........3.........4......   119 - 146
+VAAPPAGADAAWTKLFGLIIDALKAAGA   query  (%align=100.0  %ident= 11.0)
+LDAWGKAYGVIADVFIQVEADLYAQAVE   match  (%align=100.0)
+.2.........3.........4......   119 - 146
+
+
+ 
+query= 1mba	match= 1ash	energy=  -0.39	length= 148	type= local(stru-stru) 
+
+.........1.........2.........3.........4.........5.........   1 - 59
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPK   query
+KTRELCMKSLEHAKVDTSNEARQDGIDLYKHMFENYPPLRKYFKSREEYTAEDVQNDPF   match
+.......1.........2.........3.........4.........5.........6.   3 - 61
+
+6.........7.........8.........9.........0..i......i.1......   60 - 116
+LRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGS-AQFENV-RSMFPGFV   query
+FAKQGQKILLACHVLCATYDDRETFNAYTRELLDRHARDHVHMPPEVWTDFWKLFEEYL   match
+........7.........8.........9.........0.........1.........2   62 - 120
+
+...2.........3.........4......   117 - 146
+ASVAAPPAGADAAWTKLFGLIIDALKAAGA   query  (%align=100.0  %ident= 11.0)
+GKKTTLDEPTKQAWHEIGREFAKEINKHGR   match  (%align= 98.7)
+.........3.........4.........5   121 - 150
+
+
+ 
+query= 1mba	match= 1flp	energy=  -0.40	length= 142	type= local(stru-stru) 
+
+.........1.........2.....i....3.........4.........5........   1 - 58
+SLSAAEADLAGKSWAPVFANKNANG-LDFLVALFEKFPDSANFFADFKGKSVADIKASP   query
+SLEAAQKSNVTSSWAKASAAWGTAGPEFFMALFDAHDDVFAKFSGLFSGAAKGTVKNTP   match
+.........1.........2.........3.........4.........5.........   1 - 59
+
+.6.........7.........8.........9.........0.........1.......   59 - 117
+KLRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVA   query
+EMAAQAQSFKGLVSNWVDNLDNAGALEGQCKTFAANHKARGISAGQLEAAFKVLSGFMK   match
+6.........7.........8.........9.........0.........1........   60 - 118
+
+..2.........3.........4.   118 - 141
+SVAAPPAGADAAWTKLFGLIIDAL   query  (%align= 96.6  %ident= 24.1)
+SYGGDEGAWTAVAGALMGEIEPDM   match  (%align=100.0)
+.2.........3.........4..   119 - 142
+
+
+ 
+query= 1mba	match= 1hlb	energy=  -0.39	length= 148	type= local(stru-stru) 
+
+.........1.........2.........3.........4.........5.........   1 - 59
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPK   query
+DLTLAQKKIVRKTWHQLMRNKTSFVTDVFIRIFAYDPSAQNKFPQMAGMSASQLRSSRQ   match
+.........2.........3.........4.........5.........6.........   11 - 69
+
+6.........7.......d.8.........9.........0.........1........   60 - 118
+LRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVAS   query
+MQAHAIRVSSIMSEYVEE-LDSDILPELLATLARTHDLNKVGADHYNLFAKVLMEALQA   match
+7.........8....... ..9.........0.........1.........2.......   70 - 127
+
+.i.i.........3.........4......   119 - 146
+V-A-APPAGADAAWTKLFGLIIDALKAAGA   query  (%align=100.0  %ident= 18.5)
+ELGSDFNEKTRDAWAKAFSVVQAVLLVKHG   match  (%align= 93.6)
+..3.........4.........5.......   128 - 157
+
+
+ 
+query= 1mba	match= 1hlm	energy=  -0.39	length= 149	type= local(stru-stru) 
+
+.........1.........2.........3.........4.........5.........   1 - 59
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPK   query
+DLTPAEKDLIRSTWDQLMTHRTGFVADVFIRIFHNDPTAQRKFPQMAGLSPAELRTSRQ   match
+.........2.........3.........4.........5.........6.........   11 - 69
+
+6.........7...d.....8.........9.........0.........1........   60 - 118
+LRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVAS   query
+MHAHAIRVSALMTT-YIDEMDTEVLPELLATLTRTHDKNHVGKKNYDLFGKVLMEAIKA   match
+7.........8... ......9.........0.........1.........2.......   70 - 127
+
+.ii.........i.3.........4......   119 - 146
+V--AAPPAGADA-AWTKLFGLIIDALKAAGA   query  (%align=100.0  %ident= 13.0)
+ELGVGFTKQVHDAWAKTFAIVQGVLITKHAS   match  (%align= 93.7)
+..3.........4.........5........   128 - 158
+
+
+ 
+query= 1mba	match= 1myt	energy=  -0.39	length= 143	type= local(stru-stru) 
+
+.....1.........2.........3.........4.........5.........6...   5 - 63
+AEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPKLRDV   query
+ADFDAVLKCWGPVEADYTTMGGLVLTRLFKEHPETQKLFPKFAGIAQADIAGNAAISAH   match
+.........1.........2.........3.........4.........5.........   1 - 59
+
+......7.........8........i.9.........0.........i..........2   64 - 120
+SSRIFTRLNEFVNNAANAGKMSAML-SQFAKEHVGFGVGSAQFENVR-SMFPGFVASVA   query
+GATVLKKLGELLKAKGSHAAILKPLANSHATKHKIPINNFKLISEVLVKVMHEKAGLDA   match
+6.........7.........8.........9.........0.........1........   60 - 118
+
+.........3.........4.....   121 - 145
+APPAGADAAWTKLFGLIIDALKAAG   query  (%align= 96.6  %ident= 19.1)
+GGQTALRNVMGIIIADLEANYKELG   match  (%align= 97.9)
+.2.........3.........4...   119 - 143
+
+
+ 
