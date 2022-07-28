@@ -1,0 +1,16 @@
+
+ --- STRUCTURE to structure (global) alignments RESULTS --- 
+ 
+
+ The best matching structures (for query structure 1mba) are: 
+ 
+ 1mba	 ene=  -0.500	 rmsd=   0.0 (z_sc=   4.0)  similarity= VERY_HIGH 
+ 1eca	 ene=  -0.359	 rmsd=   3.4 (z_sc=   3.2)  similarity= VERY_HIGH 
+ 1ithA	 ene=  -0.364	 rmsd=   4.3 (z_sc=   2.9)  similarity= HIGH 
+ 1lh2	 ene=  -0.365	 rmsd=   5.1 (z_sc=   2.7)  similarity= HIGH 
+ 1babB	 ene=  -0.384	 rmsd=   6.3 (z_sc=   2.5)  similarity= HIGH 
+ 1pbxB	 ene=  -0.376	 rmsd=   6.3 (z_sc=   2.5)  similarity= HIGH 
+ 1babA	 ene=  -0.370	 rmsd=   6.4 (z_sc=   2.4)  similarity= HIGH 
+ 1pbxA	 ene=  -0.371	 rmsd=   6.6 (z_sc=   2.4)  similarity= HIGH 
+ 2hbg	 ene=  -0.369	 rmsd=   8.4 (z_sc=   1.9)  similarity= HIGH/low 
+ 4sdhA	 ene=  -0.373	 rmsd=   9.6 (z_sc=   1.6)  similarity= HIGH/low 

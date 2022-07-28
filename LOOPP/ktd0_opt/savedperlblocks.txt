@@ -1,0 +1,154 @@
+## this file contains saved perl script blocks that may be used in another script or for just general purposes
+## such as seeing how something was done previously
+
+## misc lines
+#	print "loopp.exe -x -seq $f_seq -xyz $f_xyz -fps -rsc $beta -fd0 $d0 -g 0.3 0.3 -pick $query -nprn 16 -best 16 -tr 50 -l\n";
+#				$variable = @loopp_rms;
+#				print "$variable\n";
+#	$varb = $oneoverkt[$k];
+#	$vard = $deenot[k];
+#	$vars = $sprs[$k];
+#	print "beta = $varb and d0 = $vard with rs = $vars\n";
+#			print "@loopp_rms\n";
+
+## the following is script from the constant gap penalty searching loop outside the main two loops for beta and
+## d0 in optimize.pl
+
+# debugging or test run
+#@oneoverkt = (3,7,5,4,7);
+#@deenot = (0.1,0.2,0.2,0.1,0.3);
+
+#if ($gpornot == 1)
+#{
+#	$f_gpscores = ">gpscores.log";
+#	open(GPSCORES,$f_gpscores) or die "can not open file $f_gpscores for writing: $!\n";
+#
+#	$n_gppoints = 0;
+#	# searching different gap penalties to find optimal one for best (beta,d0) coordinate pair
+#	print "searching gap penalty range\n\n";
+#	for ($k=0; $k<$save; ++$k)
+#	{
+#		$n_gp = 0;
+#LOOP3:	for ($gappen=$mingp; $gappen<=$maxgp; $gappen+=$stepgp)
+#		{
+			# call loopp with specified gappens
+#			print "loopp.exe -x -seq $f_seq -xyz $f_xyz -fps -rsc $oneoverkt[$k] -fd0 $deenot[$k] -g $gappen $gappen -pick $query -nprn 16 -best 16 -tr 50 -l\n";
+#			system("loopp.exe -x -seq $f_seq -xyz $f_xyz -fps -rsc $oneoverkt[$k] -fd0 $deenot[$k] -g $gappen $gappen -pick $query -nprn 16 -best 16 -tr 50 -$local");
+
+			# read best.log file to get scores from loopp x2x alignment
+			# store loopp scores in @loopps
+#			$index = 0;
+#			open(BESTLOG,$f_best) or die "can not open file $f_best for reading: $!\n";
+#			$line = <BESTLOG>;
+#			print "line1 = $line\n";
+#			$line = <BESTLOG>;
+#			print "line2 = $line\n";
+#			$line = <BESTLOG>;
+#			print "line3 = $line\n";
+#			$line = <BESTLOG>;
+#			print "line4 = $line\n";
+#			$line = <BESTLOG>;
+#			print "line5 = $line\n";
+#			while ($line = <BESTLOG>)
+#			{
+#				if ($line =~ /ene=/)
+#				{
+#					($value1,$value2,$value3,$value4,$value5,$rest) = split(" ",$line);
+#					$loopps[$index] = $value3;
+#					$loopp_rms[$index] = $value5;
+#					$index++;
+#				}
+#			}
+
+			# if loopp determines that with the given parameters of beta and d0 some alignments do not meet the
+			# criteria for a good match or alignment (such as number of aligned residues,low energy, low rms
+			# such that not all of the best matched proteins are printed to best.log then skip this (beta,d0)
+			# coordinate
+#			if ($index < 16)
+#			{
+#				next LOOP3;
+#			}
+
+#			$sumrms = 0.0;
+#			for ($m=0; $m<@loopp_rms; ++$m)
+#			{
+#				$sumrms += @loopp_rms[$m];
+#			}
+
+			# store DALI Z_scores and rmsds in an array
+#			@daliz = (30.9,18.6,18.5,18.1,18.0,17.8,17.6,16.7,16.6,15.7,15.5,15.5,14.8,14.3,13.3,12.2);
+#			@dali_rms = (0.0,1.9,1.8,1.9,2.0,2.0,2.2,2.0,1.9,2.3,2.3,2.5,2.4,2.4,2.8,2.7);
+			
+			# optimization of the parameters involves saving the ($beta,$d0) coordinate pair the has the largest 
+			# spearman rank-order correlation coefficient
+#			($dgp,$zdgp,$probdgp,$rsgp,$probrsgp) = (0.0,0.0,0.0,0.0,0.0);
+#			($dgp,$zdgp,$probdgp,$rsgp,$probrsgp) = spear(\@loopps,\@daliz,$index,$dgp,$zdgp,$probdgp,$rsgp,$probrsgp);
+
+#			$sprmn[$n_gp] = $rsgp;
+#			$sumrms0[$n_gp] = $sumrms;
+			
+#			if ($n_gp == 0)
+#			{
+#				printf GPSCORES "gap penalty run of ($oneoverkt[$k],$deenot[$k])\n";
+#				printf GPSCORES "gappen\t\t\tspearman_rocc\t\t\tsum_rms\n";
+#			} 
+#			printf GPSCORES "$gappen\t\t\t\t$sprmn[$n_gp]\t\t$sumgprms0[$n_gp]\n";
+#			printf GPSCORES "\n";
+
+			# optimize gappen by finding the gappen with the maximum negative spearman r-o cc and/or lowest sum of
+			# rmsds
+#			if ($n_gp == 0)
+#			{
+#				$gp[$k] = $gappen;
+#				$gpsprmn = $sprmn;
+#				$sumgprms = $sumrms;
+#			}
+#			else 
+#			{
+#				if ($sprmn < $gpsprmn && $sumrms < $sumgprms)
+#				{
+#					$gp[$k] = $gappen;
+#					$gpsprmn = $sprmn;
+#					$sumgprms = $sumrms;		
+#				}
+#			}
+#			$gpbeta[$k] = $oneoverkt[$k];
+#			$gpd0[$k] = $deenot[$k];
+
+#			++$n_gp;
+#			++$n_gppoints;
+#		}	
+#	}
+#}
+
+## this block is for finding the single best parameter pair (beta,d0)
+#				if ($n_points == 0)
+#				{
+#					$rs0 = $rs;
+#					$sprs[$n_points] = $rs;
+#					$beta0 = $beta;
+#					$1overkt[$n_points] = $beta;
+#					$d00 = $d0;
+#					$deenot[$n_points] = $d0;
+#					$sumlrms0[$n_points] = $sumlrms;
+#				}
+#				else 
+#				{
+#					if ($rs < $rs0 && $sumlrms < $sumlrms0)
+#					{
+#						# same as for n_points == 0			
+#					}
+#				}
+
+## this block is from x2xtest.pl
+#	$line = <BESTLOG>;
+#	print "line1 = $line\n";
+#	$line = <BESTLOG>;
+#	print "line2 = $line\n";
+#	$line = <BESTLOG>;
+#	print "line3 = $line\n";
+#	$line = <BESTLOG>;
+#	print "line4 = $line\n";
+#	$line = <BESTLOG>;
+#	print "line5 = $line\n";
+#	$index = 0;

@@ -1,0 +1,307 @@
+
+ --- SEQUENCE to sequence (local) ALIGNMENTS (not ordered)  --- 
+ 
+query= 1mba	match= 1babA	energy= -128.50	length= 147	type= local(seq-seq) 
+
+......i..1.d.......2.........3.........4...ii...i..d5d.....   2 - 56
+LSAAEA-DLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFF--ADF-KGKSVADIKA   query
+LSPADKTNVKA-AWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHG-S-AQVKG   match
+.......1... ......2.........3.........4.........5.. . .....   3 - 58
+
+...d.d.......7...d.....8.dd...d..9.d...d...0.........i.....   57 - 114
+SPKLRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVR-SMFPG   query
+HGK-K-VADALTNAVAH-VDDMPNA--LSA-LSDL-HAH-KLRVDPVNFKLLSHCLLVT   match
+.6. . .......7... ......8  ... .... ..9 .........0.........   59 - 109
+
+.....i.i....d....3.........4.   115 - 141
+FVASV-A-APPAGADAAWTKLFGLIIDAL   query  (%align= 95.9  %ident= 25.7)
+LAAHLPAEFTPA-VHASLDKFLASVSTVL   match  (%align= 95.1)
+1.........2. ........3.......   110 - 137
+
+
+ 
+query= 1mba	match= 1babB	energy= -116.00	length= 148	type= local(seq-seq) 
+
+........1.........2.d...d...3.........4......d.i.5...i.....   2 - 58
+LSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKG-KSVAD-IKASP   query
+LTPEEKSAVTALWGKVNVDE-VGG-EALGRLLVVYPWTQRFFESF-GDLSTPDAVMGNP   match
+.......1.........2.. ... ....3.........4..... ....5........   3 - 58
+
+.6.......ddd.........8.........9.......i..0.........1......   59 - 116
+KLRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVG-FGVGSAQFENVRSMFPGFV   query
+KVKAHGKKV---LGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVL   match
+.6.......   ..7.........8.........9.........0.........1....   59 - 114
+
+.i..2ii.i..dd....3....i.d...4.   117 - 141
+A-SVA--A-PPAGADAAWTKLF-GLIIDAL   query  (%align= 95.9  %ident= 22.1)
+AHHFGKEFTPP--VQAAYQKVVAG-VANAL   match  (%align= 95.2)
+.....2.....  ....3...... ...4.   115 - 141
+
+
+ 
+query= 1mba	match= 1eca	energy= -161.00	length= 141	type= local(seq-seq) 
+
+...1......d..2.........3........i.4.d.......5......i..d6...   7 - 63
+ADLAGKSWAPVFANKNANGLDFLVALFEKFPD-SANFFADFKGKSVADIKA-SPKLRDV   query
+ADQISTVQAS-FDKVKGDPVGILYAVFKADPSIMAK-FTQFAGKDLESIKGTAP-FETH   match
+.......1.. .......2.........3....... ..4.........5.... ....   3 - 58
+
+......7.........8ddd......9.........0.........1........d2..   64 - 122
+SSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVASVAAP   query
+ANRIVGFFSKIIGELPN---IEADVNTFVASHKPRGVTHDQLNNFRAGFVSYMKA-HTD   match
+.6.........7.....   ....8.........9.........0.........1 ...   59 - 113
+
+.......3ii.ii........4.   123 - 141
+PAGADAAW--T--KLFGLIIDAL   query  (%align= 92.5  %ident= 28.1)
+FAGAEAAWGATLDTFFGMIFSKM   match  (%align= 98.5)
+......2.........3......   114 - 136
+
+
+ 
+query= 1mba	match= 1ithA	energy= -148.50	length= 147	type= local(seq-seq) 
+
+........1....i...ii..2......d..3....d..i..4d........5......   2 - 56
+LSAAEADLAGKSW-APV--FANKNANGLDFLVALFEKFP-DSANFFADFKGKSVADIKA   query
+LTAAQIKAIQDHWFLNIKGCLQAAADSI-FFKYLTA-YPGDLA-FFHKFSSVPLYGLRS   match
+........1.........2......... ....... ...4.. .......5.......   2 - 57
+
+...6.........7.........i.....dd...9...d.....0.........1....   57 - 114
+SPKLRDVSSRIFTRLNEFVNNAA-NAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPG   query
+NPAYKAQTLTVINYLDKVVDALGGNAGAL--MKAKVPS-HDAMGITPKHFGQLLKLVGG   match
+..6.........7.........8......  ...9... ......0.........1...   58 - 113
+
+i.....2....d....3.........4..   115 - 142
+-FVASVAAPPAGADAAWTKLFGLIIDALK   query  (%align= 96.6  %ident= 23.4)
+VFQEEFSADPT-TVAAWGDAAGVLVAAMK   match  (%align= 99.3)
+......2.... .....3.........4.   114 - 141
+
+
+ 
+query= 1mba	match= 1lh2	energy= -163.00	length= 149	type= local(seq-seq) 
+
+.........1......d.i.2.........3.........4........d5d...i...   1 - 57
+SLSAAEADLAGKSWAPVF-ANKNANGLDFLVALFEKFPDSANFFADFKGKSVADI-KAS   query
+ALTESQAALVKSSWEE-FNANIPKHTHRFFILVLEIAPAAKDLFSFLKG-T-SEVPQNN   match
+........1....... ..2.........3.........4......... . .......   2 - 57
+
+..6.........7.........8..i...i....9.........0.........i....   58 - 113
+PKLRDVSSRIFTRLNEFVNNAANAG-KMS-AMLSQFAKEHVGFGVGSAQFENVR-SMFP   query
+PELQAHAGKVFKLVYEAAIQLEVTGVVVTDATLKNLGSVHVSKGVADAHFPVVKEAILK   match
+..6.........7.........8.........9.........0.........1......   58 - 116
+
+......2....i.....3.....i...d4..   114 - 142
+GFVASVAAPPA-GADAAWTKLFG-LIIDALK   query  (%align= 97.3  %ident= 25.4)
+TIKEVVGAKWSEELNSAWTIAYDELAI-VIK   match  (%align= 94.8)
+...2.........3.........4... ...   117 - 146
+
+
+ 
+query= 1mba	match= 1mba	energy= -939.00	length= 146	type= local(seq-seq) 
+
+.........1.........2.........3.........4.........5.........   1 - 59
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPK   query
+SLSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPK   match
+.........1.........2.........3.........4.........5.........   1 - 59
+
+6.........7.........8.........9.........0.........1........   60 - 118
+LRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVAS   query
+LRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVAS   match
+6.........7.........8.........9.........0.........1........   60 - 118
+
+.2.........3.........4......   119 - 146
+VAAPPAGADAAWTKLFGLIIDALKAAGA   query  (%align=100.0  %ident=100.0)
+VAAPPAGADAAWTKLFGLIIDALKAAGA   match  (%align=100.0)
+.2.........3.........4......   119 - 146
+
+
+ 
+query= 1mba	match= 2hbg	energy= -160.50	length= 153	type= local(seq-seq) 
+
+........1........i.2...i......3.........4....d....5dd.dddd.   2 - 58
+LSAAEADLAGKSWAPVF-ANKNA-NGLDFLVALFEKFPDSANFFADFKGKSVADIKASP   query
+LSAAQRQVIAATWKDIAGADNGAGVGKKCLIKFLSAHPQMAAVFG-FSGAS--D----P   match
+........1.........2.........3.........4...... ...5.  .    .   2 - 53
+
+.6.........7.........8.........9.........iii.d...i....i.1..   59 - 112
+KLRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFG---VGSAQ-FENV-RSMF   query
+GVAALGAKVLAQIGVAVSHLGDEGKMVAQMKAVGVRHKGYGNKHI-KAQYFEPLGASLL   match
+......6.........7.........8.........9........ .0.........1.   54 - 111
+
+.......2...i...i.d.3.........4...d.   113 - 145
+PGFVASVAAPP-AGA-DAAWTKLFGLIIDALKAAG   query  (%align= 98.6  %ident= 27.1)
+SAMEHRIGGKMNAAAKD-AWAAAYADISGALIS-G   match  (%align= 97.3)
+........2........ .3.........4... .   112 - 144
+
+
+ 
+query= 1mba	match= 2lhb	energy= -240.50	length= 147	type= local(seq-seq) 
+
+........1.........2.........3.......d.4.i........5...i.....   2 - 58
+LSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSAN-FFADFKGKSVAD-IKASP   query
+LSAAEKTKIRSAWAPVYSTYETSGVDILVKFFTSTP-AAQEFFPKFKGLTTADELKKSA   match
+.........2.........3.........4...... ...5.........6........   11 - 68
+
+.6.........7.........8.........9......i...0......d.dd.d....   59 - 116
+KLRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHV-GFGVGSAQFENVRSMFPGFV   query
+DVRWHAERIINAVDDAVASMDDTEKMSMKLRNLSGKHAKSFQVDPEYFK-V--L-AAVI   match
+.7.........8.........9.........0.........1....... .  . ....   69 - 123
+
+.i..2.ddd.d...3.........4....   117 - 144
+A-SVAAPPAGADAAWTKLFGLIIDALKAA   query  (%align= 97.9  %ident= 35.0)
+ADTVAA---G-DAGFEKLMSMICILLRSA   match  (%align= 92.6)
+......   . .........4........   124 - 148
+
+
+ 
+query= 1mba	match= 3sdhA	energy= -188.00	length= 145	type= local(seq-seq) 
+
+...i.....1.d.......2.........3.........4......d..d.........   2 - 59
+LSA-AEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPK   query
+LTADVKKDLRD-SWKVIGSDKKGNGVALMTTLFADNQETIGYFKRL-GN-VSQGMANDK   match
+.1......... ..........3.........4.........5... .. ....6....   9 - 64
+
+6....i.....d.........8.........9.........0.........1dd.dd..   60 - 117
+LRDVS-SRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGFVA   query
+LRGHSITLMYA-LQNFIDQLDNPDDLVCVVEKFAVNHITRKISAAEFGKING--P--IK   match
+.....7..... ....8.........9.........0.........1.....  .  ..   65 - 118
+
+..2...i..i...i.3.........4.   118 - 141
+SVAAPP-AG-ADA-AWTKLFGLIIDAL   query  (%align= 95.9  %ident= 27.1)
+KVLASKNFGDKYANAWAKLVAVVQAAL   match  (%align= 94.5)
+.2.........3.........4.....   119 - 145
+
+
+ 
+query= 1mba	match= 5mbn	energy= -163.00	length= 150	type= local(seq-seq) 
+
+........1.........2.........3.........4...d.i..i..5........   2 - 58
+LSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSANFFAD-FK-GKSVADIKASP   query
+LSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSHPETLEKF-DRFKHLKTEAEMKASE   match
+........1.........2.........3.........4... ......5.........   2 - 59
+
+.6.........7.........i.......d..9i.....d...0.......d.1...d.   59 - 115
+KLRDVSSRIFTRLNEFVNNAA-NAGKMSAMLSQ-FAKEHVGFGVGSAQFENVRSMFPGF   query
+DLKKHGVTVLTALGAILKKKGHHEAELKP-LAQSHATKH-KIPIKYLEFIS-EAIIH-V   match
+6.........7.........8........ .9....... ..0........ .1... .   60 - 114
+
+...d2..i......ii.3........i.d...   116 - 143
+VASVAAP-PAGADA--AWTKLFGLII-DALKA   query  (%align= 97.3  %ident= 29.6)
+LHS-RHPGDFGADAQGAMNKALELFRKD-IAA   match  (%align= 93.5)
+... ..2.........3.........4. ...   115 - 144
+
+
+ 
+query= 1mba	match= 2vhb_A	energy= -135.50	length= 134	type= local(seq-seq) 
+
+........2......i...3.........4...d..d..5d....d...6dd.......   12 - 69
+KSWAPVFANKNANGL-DFLVALFEKFPDSANFFADFKGKSVADIKASPKLRDVSSRIFT   query
+KATVPVLKEHGVTITTTFYKNLFAKHPEVRPLF-DM-GRQ-ESLE-QPKA--LAMTVLA   match
+.........2.........3.........4... .. ... .5.. ....  ...6...   11 - 63
+
+7...d.....d.d....d..9..i.d.....0.........1.........2.......   70 - 127
+RLNEFVNNAANAGKMSAMLSQFA-KEHVGFGVGSAQFENVRSMFPGFVASVAAPPAGAD   query
+AAQN-IENLP-A-ILPA-VKKIAVK-HCQAGVAAAHYPIVGQELLGAIKEVLGDAATDD   match
+.... ..7.. . .... ..8.... .....9.........0.........1.......   64 - 117
+
+.ii.3.........4.   128 - 141
+A--AWTKLFGLIIDAL   query  (%align= 89.0  %ident= 25.4)
+ILDAWGKAYGVIADVF   match  (%align= 84.2)
+..2.........3...   118 - 133
+
+
+ 
+query= 1mba	match= 1ash	energy= -103.00	length= 140	type= local(seq-seq) 
+
+..1....ii...i..2..i.......3.........4.....d...5..i.......6.   8 - 61
+DLAGKSW--APV-FANKN-ANGLDFLVALFEKFPDSANFFADFKGKSVA-DIKASPKLR   query
+ELCMKSLEHAKVDTSNEARQDGIDLYKHMFENYPPLRKYFKS-REEYTAEDVQNDPFFA   match
+....1.........2.........3.........4....... ..5.........6...   6 - 63
+
+.......i.i.i..i.....i..8.d.......9......d.d0.........1.....   62 - 115
+DVSSRIF-T-R-LN-EFVNN-AANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPGF   query
+KQGQKILLACHVLCATYDDRETFNA-YTRELLDRHARDHV-H-MPPEVWTDFWKLFEEY   match
+......7.........8........ .9.........0.. . ......1.........   64 - 119
+
+..i..2.i..dd....3...d.   116 - 135
+VA-SVAA-PPAGADAAWTKLFG   query  (%align= 87.7  %ident= 21.9)
+LGKKTTLDEP--TKQAWHEI-G   match  (%align= 88.7)
+2.........  ........ .   120 - 138
+
+
+ 
+query= 1mba	match= 1flp	energy= -221.50	length= 143	type= local(seq-seq) 
+
+......i...1.d.......2.........3.........i..........5.......   1 - 57
+SLSAAE-ADLAGKSWAPVFANKNANGLDFLVALFEKFPDS-ANFFADFKGKSVADIKAS   query
+SLEAAQKSNVTS-SWAKASAAWGTAGPEFFMALFDAHDDVFAKFSGLFSGAAKGTVKNT   match
+.........1.. .......2.........3.........4.........5........   1 - 58
+
+..6i.....dd..7.i........8.........9.........0.........1....   58 - 114
+PKL-RDVSSRIFTRL-NEFVNNAANAGKMSAMLSQFAKEHVGFGVGSAQFENVRSMFPG   query
+PEMAAQAQS--FKGLVSNWVDNLDNAGALEGQCKTFAANHKARGISAGQLEAAFKVLSG   match
+.6.......  ..7.........8.........9.........0.........1.....   59 - 115
+
+....ddddd.....i.3.....i..   115 - 137
+FVASVAAPPAGADA-AWTKLFG-LI   query  (%align= 93.8  %ident= 32.1)
+FMKS-----YGGDEGAWTAVAGALM   match  (%align= 95.1)
+....     ..........3.....   116 - 135
+
+
+ 
+query= 1mba	match= 1hlb	energy= -164.50	length= 145	type= local(seq-seq) 
+
+........1.........2.........3....d.i...4.........5.........   2 - 59
+LSAAEADLAGKSWAPVFANKNANGLDFLVALFEKF-PDSANFFADFKGKSVADIKASPK   query
+LTLAQKKIVRKTWHQLMRNKTSFVTDVFIRIFA-YDPSAQNKFPQMAGMSASQLRSSRQ   match
+........2.........3.........4.... .....5.........6.........   12 - 69
+
+6.........7.......d.8.........9.....d...i.........i.1......   60 - 116
+LRDVSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVGFG-VGSAQFENV-RSMFPGFV   query
+MQAHAIRVSSIMSEYVEE-LDSDILPELLATLARTH-DLNKVGADHYNLFAKVLMEALQ   match
+7.........8....... ..9.........0.... .....1.........2......   70 - 126
+
+...2...i...i.d.3.....d...4.   117 - 141
+ASVAAPP-AGA-DAAWTKLFGLIIDAL   query  (%align= 95.9  %ident= 20.7)
+AELGSDFNEKTRD-AWAKAFS-VVQAV   match  (%align= 89.2)
+...3......... ....... ...5.   127 - 151
+
+
+ 
+query= 1mba	match= 1hlm	energy= -150.00	length= 148	type= local(seq-seq) 
+
+........1.........2.........3.......d.4.i........5.........   2 - 59
+LSAAEADLAGKSWAPVFANKNANGLDFLVALFEKFPDSAN-FFADFKGKSVADIKASPK   query
+LTPAEKDLIRSTWDQLMTHRTGFVADVFIRIFHNDP-TAQRKFPQMAGLSPAELRTSRQ   match
+........2.........3.........4....... ..5.........6.........   12 - 69
+
+6.........7........i.8.i........9i.......iii..i..........1.   60 - 111
+LRDVSSRIFTRLNEFVNNA-ANA-GKMSAMLSQ-FAKEHVG---FG-VGSAQFENVRSM   query
+MHAHAIRVSALMTTYIDEMDTEVLPELLATLTRTHDKNHVGKKNYDLFGKVLMEAIKAE   match
+7.........8.........9.........0.........1.........2........   70 - 128
+
+.d.d.d..2.d...d.d.3.........4.   112 - 141
+FPGFVASVAAPPAGADAAWTKLFGLIIDAL   query  (%align= 95.9  %ident= 22.9)
+L-G-V-GFTK-QVH-D-AWAKTFAIVQGVL   match  (%align= 89.2)
+. . . .... ... . ..........5..   129 - 152
+
+
+ 
+query= 1mba	match= 1myt	energy= -176.00	length= 142	type= local(seq-seq) 
+
+.....1.........2..i....d..3.........4.........5.........6..   5 - 62
+AEADLAGKSWAPVFANKN-ANGLDFLVALFEKFPDSANFFADFKGKSVADIKASPKLRD   query
+ADFDAVLKCWGPVEADYTTMGGL-VLTRLFKEHPETQKLFPKFAGIAQADIAGNAAISA   match
+.........1.........2... ......3.........4.........5........   1 - 58
+
+.......7......d.d8d........9.......i..0.........1.........2   63 - 120
+VSSRIFTRLNEFVNNAANAGKMSAMLSQFAKEHVG-FGVGSAQFENVRSMFPGFVASVA   query
+HGATVLKKLGELLK-A-K-GSHAAILKPLANSHATKHKIPINNFKLISEVLVKVMHEKA   match
+.6.........7.. . . .....8.........9.........0.........1....   59 - 114
+
+.........3........i.d...   121 - 143
+APPAGADAAWTKLFGLII-DALKA   query  (%align= 95.2  %ident= 27.3)
+GLDAGGQTALRNVMGIIIAD-LEA   match  (%align= 93.8)
+.....2.........3.... ...   115 - 137
+
+
+ 

@@ -1,0 +1,68 @@
+new loopp x2x alignment method:
+
+query= 4cms	match= 1mpp	energy=  -0.33	length= 350	type= local(stru-stru) 
+
+.........1.........2.........3.........4.........5..i......   1 - 58
+GEVASVPLTNYLDSQYFGKIYLGTPPQEFTVLFDTGSSDFWVPSIYCKSNAC-KNHQRF   query
+GSVDTPGLYDFDLEEYAIPVSIGTPGQDFYLLFDTGSSDTWVPHKGCDNSEGCVGKRFF   match
+.........1.........2.........3.........4.........5.........   1 - 59
+
+.6.........7.........8.........9.........0.....i.i...1.....   59 - 115
+DPRKSSTFQNLGKPLSIHYGTGSMQGILGYDTVTVSNIVDIQQTVGL-S-TQEPGDVFT   query
+DPSSSSTFKETDYNLNITYGTGGANGIYFRDSITVGGATVKQQTLAYVDNVSGPTAEQS   match
+6.........7.........8.........9.........0.........1........   60 - 118
+
+i....2ii.........i..i.....iiii...4.........5.........6.....   116 - 165
+-YAEFD--GILGMAYPS-LA-SEYSI----PVFDNMMNRHLVAQDLFSVYMDRNGQESM   query
+PDSELFLDGIFGAAYPDNTAMEAEYGDTYNTVHVNLYKQGLISSPVFSVYMNTNDGGGQ   match
+.2.........3.........4.........5.........6.........7.......   119 - 177
+
+....7.........8....ii....i.i..........0.....i....1.........   166 - 219
+LTLGAIDPSYYTGSLHWVP--VTVQ-Q-YWQFTVDSVTISGVVV-ACEGGCQAILDTGT   query
+VVFGGVNNTLLGGDIQYTDVLKSRGGYFFWDAPVTGVKIDGSDAVSFDGAQAFTIDTGT   match
+..8.........9.........0.........1.........2.........3......   178 - 236
+
+2.........3.........4......i...5......i...6.ii..ii...i...7i   220 - 270
+SKLVGPSSDILNIQQAIGATQNQYGEF-DIDCDNLSYM-PTVVF--EI--NGK-MYPL-   query
+NFFIAPSSFAEKVVKAALPDATESQQGYTVPCSKYQDSKTTFSLVLQKSGSSSDTIDVS   match
+...4.........5.........6.........7.........8.........9.....   237 - 295
+
+i.........8....ii.i.i...9..i.......0.........1.........   271 - 319
+-TPSAYTSQDQGFCT--S-G-FQSEQK-WILGDVFIREYYSVFDRANNLVGLAKA   query  (%align= 99.7  %ident= 27.6)
+VPISKMLLPVDKSGETCMFIVLPDGGNQFIVGNLFLRFFVNVYDFGKNRIGFAPL   match  (%align= 98.0)
+....0.........1.........2.........3.........4.........5   296 - 350
+
+
+old loopp x2x alignment method:
+
+query= 4cms	match= 1mpp	energy= -304.63	length= 335	type= local(stru-stru) 
+
+.........1.........2.........i........d.4....i.....5.......   1 - 57
+GEVASVPLTNYLDSQYFGKIYLGTPPQEF-TVLFDTGSSDFWVPS-IYCKSNACKNHQR   query
+DTPGLYDFDLEEYAIPVSIGTPGQDFYLLFDTGSSDTW-VPHKGCDNSEGCVGKRFFDP   match
+......1.........2.........3.........4. ........5.........6.   4 - 61
+
+..6.........i..........8.i........9.........0.........1....   58 - 114
+FDPRKSSTFQNL-GKPLSIHYGTGS-MQGILGYDTVTVSNIVDIQQTVGLSTQEPGDVF   query
+SSSSTFKETDYNLNITYGTGGANGIYFRDSITVGGATVKQQTLAYVDNVSGPTAEQSPD   match
+........7.........8.........9.........0.........1.........2   62 - 120
+
+.....2.........3.i........4.i....i.i.i..5.........6..i.....   115 - 167
+TYAEFDGILGMAYPSLA-SEYSIPVFDN-MMNR-H-L-VAQDLFSVYMDRNGQ-ESMLT   query
+SELFLDGIFGAAYPDNTAMEAEYGDTYNTVHVNLYKQGLISSPVFSVYMNTNDGGGQVV   match
+.........3.........4.........5.........6.........7.........   121 - 179
+
+..7.........8.........i....i.i.....0.i.......i.1.........2.   168 - 221
+LGAIDPSYYTGSLHWVPVTVQQ-YWQF-T-VDSVTIS-GVVVACE-GGCQAILDTGTSK   query
+FGGVNNTLLGGDIQYTDVLKSRGGYFFWDAPVTGVKIDGSDAVSFDGAQAFTIDTGTNF   match
+8.........9.........0.........1.........2.........3........   180 - 238
+
+........3.i........4.........5......d..6.........d.........   222 - 279
+LVGPSSDILN-IQQAIGATQNQYGEFDIDCDNLSYMPTVVFEINGKMYPLTPSAYTSQD   query
+FIAPSSFAEKVVKAALPDATESQQGYTVPCSKYQDS-KTTFSLVLQKSG-SSSDTIDVS   match
+.4.........5.........6.........7.... .....8...... ...9.....   239 - 295
+
+8......d..9..d......0.........1.........   280 - 319
+QGFCTSGFQSEQKWILGDVFIREYYSVFDRANNLVGLAKA   query  (%align= 99.7  %ident=  9.7)
+VPISKML-LPVDK-SGETCMFIVLPDGGNQFIVGNLFLRF   match  (%align= 92.4)
+....0.. ..... ..1.........2.........3...   296 - 333
