@@ -1,0 +1,532 @@
+alignment for query sequence 1 and database structure 1:
+DADLAKKNNCIACHQVETKVVGPALKDIAAKYADKDDAATYLAGKIKGGSSGVWGQIPMPPNVNVSDADA
+DADLAKKNNCIACHQVETKVVGPALKDIAAKYADKDDAATYLAGKIKGGSSGVWGQIPMPPNVNVSDADA
+
+
+alignment for query sequence 1 and database structure 2:
+SDADA
+SMAII
+
+
+alignment for query sequence 1 and database structure 3:
+DADLAKKNNCIACHQVETKVVGPALKDIAAKYADKDDAATYLAGKIKGGSSGVWGQIPMPPN-V-NVSDADA
+---LFKSKPCAACHSVDTKMVGPALKEVAAKNAGVEGAADTLALHIKNGSQGVWGPIPMPPNPLFKSKPCAA
+
+
+alignment for query sequence 1 and database structure 4:
+NNCIACHQ-VETKVV-GPALKDIA-AKYADKDDAATYLAGKIKGGSSGVWGQIPMPPNVNVSDADA
+GNCAACHAGGGNNVIPDHTLQKAAIEQFLDGGFNIEAIVYQIENGKGAMPAWDGRLDEDEIAGV-A
+
+
+alignment for query sequence 1 and database structure 5:
+SDADA
+AEGDY
+
+
+alignment for query sequence 1 and database structure 6:
+VSDADA
+LGNAVR
+
+
+alignment for query sequence 1 and database structure 7:
+NVNVSDADA
+GTTVLTALG
+
+
+alignment for query sequence 1 and database structure 8:
+NVSDADA
+EIQTMSV
+
+
+alignment for query sequence 1 and database structure 9:
+QIPMPPNVNVSDADA
+EAEMKASEDLKKYGT
+
+
+alignment for query sequence 1 and database structure 10:
+VSDADA
+ILQAVN
+
+
+alignment for query sequence 2 and database structure 1:
+GDVKLTQSMAII-R
+GQIPMPPNVNVSDA
+
+
+alignment for query sequence 2 and database structure 2:
+SPILGYWKIKGLVQPTRLLLEYLEEKYEEHLYERDEGDKWRNKKFELGLEFPNLPYYIDGDVKLTQSMAIIR
+SPILGYWKIKGLVQPTRLLLEYLEEKYEEHLYERDEGDKWRNKKFELGLEFPNLPYYIDGDVKLTQSMAIIR
+
+
+alignment for query sequence 2 and database structure 3:
+LTQSMAIIR
+LFKSKPCAA
+
+
+alignment for query sequence 2 and database structure 4:
+LPYYIDGDVKLTQSMAIIR
+MPAW-DGRLD-EDEIAGVA
+
+
+alignment for query sequence 2 and database structure 5:
+RNKKFELGLEFPNLPYYIDGDVKL-TQSMAIIR
+KTKHPQLHIE-SKIYKMMQGGVGIPTIRWCGAE
+
+
+alignment for query sequence 2 and database structure 6:
+IR
+VR
+
+
+alignment for query sequence 2 and database structure 7:
+AIIR
+ALGR
+
+
+alignment for query sequence 2 and database structure 8:
+EFPNLPYYIDGD-V-KLTQSMAIIR---
+KFVMTPHESDKETVRKEIQTMSVLRHPT
+
+
+alignment for query sequence 2 and database structure 9:
+DVKLTQSMAIIR
+DLK-KYGTVVLT
+
+
+alignment for query sequence 2 and database structure 10:
+KLTQSMAIIR
+RILQAVNFPF
+
+
+alignment for query sequence 3 and database structure 1:
+---LFKSKPCAACHSVDTKMVGPALKEVAAKNAGVEGAADTLALHIKNGSQGVWGPIPMPPNPLFKSKPCAA
+DADLAKKNNCIACHQVETKVVGPALKDIAAKYADKDDAATYLAGKIKGGSSGVWGQIPMPPN-V-NVSDADA
+
+
+alignment for query sequence 3 and database structure 2:
+LFKSKPCAA
+LTQSMAIIR
+
+
+alignment for query sequence 3 and database structure 3:
+LFKSKPCAACHSVDTKMVGPALKEVAAKNAGVEGAADTLALHIKNGSQGVWGPIPMPPNPLFKSKPCAA
+LFKSKPCAACHSVDTKMVGPALKEVAAKNAGVEGAADTLALHIKNGSQGVWGPIPMPPNPLFKSKPCAA
+
+
+alignment for query sequence 3 and database structure 4:
+CAACHSVDTKMVGP-ALKEVAAKNAGVEGAADTLALHIKNGSQGVWGPIPMPPNPLFKSK-PCAA
+CAACHAGGGNNVIPDHTLQKAAIEQFLDGGFNIEAI-VYQIENG-KGAMPAWDGRLDEDEIAGVA
+
+
+alignment for query sequence 3 and database structure 5:
+PLFKSKPCAA
+PTIRWCGAEG
+
+
+alignment for query sequence 3 and database structure 6:
+AA
+AV
+
+
+alignment for query sequence 3 and database structure 7:
+AA
+AL
+
+
+alignment for query sequence 3 and database structure 8:
+AA
+SV
+
+
+alignment for query sequence 3 and database structure 9:
+MPPNPLFKSKPCAA
+MKASEDLKKYGTVV
+
+
+alignment for query sequence 3 and database structure 10:
+PCAA
+PFLV
+
+
+alignment for query sequence 4 and database structure 1:
+GNCAACHAGGGNNVIPDHTLQKAAIEQFLDGGFNIEAIVYQIENGKGAMPAWDGRLDEDEIAGV-A
+NNCIACHQ-VETKVV-GPALKDIA-AKYADKDDAATYLAGKIKGGSSGVWGQIPMPPNVNVSDADA
+
+
+alignment for query sequence 4 and database structure 2:
+MPAW-DGRLD-EDEIAGVA
+LPYYIDGDVKLTQSMAIIR
+
+
+alignment for query sequence 4 and database structure 3:
+CAACHAGGGNNVIPDHTLQKAAIEQFLDGGFNIEAI-VYQIENG-KGAMPAWDGRLDEDEIAGVA
+CAACHSVDTKMVGP-ALKEVAAKNAGVEGAADTLALHIKNGSQGVWGPIPMPPNPLFKSK-PCAA
+
+
+alignment for query sequence 4 and database structure 4:
+AVFDGNCAACHAGGGNNVIPDHTLQKAAIEQFLDGGFNIEAIVYQIENGKGAMPAWDGRLDEDEIAGVA
+AVFDGNCAACHAGGGNNVIPDHTLQKAAIEQFLDGGFNIEAIVYQIENGKGAMPAWDGRLDEDEIAGVA
+
+
+alignment for query sequence 4 and database structure 5:
+GVA
+GDY
+
+
+alignment for query sequence 4 and database structure 6:
+GVA
+AVR
+
+
+alignment for query sequence 4 and database structure 7:
+IAGVA
+LTALG
+
+
+alignment for query sequence 4 and database structure 8:
+EDEIAGVA
+EIQTMSVL
+
+
+alignment for query sequence 4 and database structure 9:
+VA
+LT
+
+
+alignment for query sequence 4 and database structure 10:
+VA
+LV
+
+
+alignment for query sequence 5 and database structure 1:
+AEGDY
+SDADA
+
+
+alignment for query sequence 5 and database structure 2:
+KMMQGGVGIPTI-RWCGAEGDY
+KKFELGLEFPNLPYYIDGDVKL
+
+
+alignment for query sequence 5 and database structure 3:
+LHIESKIYKMMQGGVGIPTIRWCGAEGDY
+LHIKNG-SQGVWGPIPMPPNPLFKSKPCA
+
+
+alignment for query sequence 5 and database structure 4:
+GDY
+GVA
+
+
+alignment for query sequence 5 and database structure 5:
+GNRYRLGRKIGSGSFGDIYLGTDIAAGEEVAIKLECVKTKHPQLHIESKIYKMMQGGVGIPTIRWCGAEGDY
+GNRYRLGRKIGSGSFGDIYLGTDIAAGEEVAIKLECVKTKHPQLHIESKIYKMMQGGVGIPTIRWCGAEGDY
+
+
+alignment for query sequence 5 and database structure 6:
+GAEGD-Y
+GALGNAV
+
+
+alignment for query sequence 5 and database structure 7:
+DIAA-GEEVAIKLECVKTKHPQLHIESKIYKMMQGGVGIPTIRWCGAE-GDY
+DLSAHGQEVIIRLFQLHPETQERFAKFKNLTTIDALKSSEEVKKHGTTVLTA
+
+
+alignment for query sequence 5 and database structure 8:
+NRYRLGRKIGSGSFGDIYLGTDIAAGEEVAIKLECVKTKHPQLHIESKIYKMMQGGVGIPTIRWCGAEGDY
+DHYDIHEELGTGAFGVVHRVTERATGNNFAAKF--VMTPH-ESDKET-VRKEIQ-TMSV--LR----HPTL
+
+
+alignment for query sequence 5 and database structure 9:
+TDIAA-GEEVAIKLECVKTKHPQLHIESKIYKMMQGGVGIPTIRWCGAEGDY
+ADIAGHGQEVLIRLFTGHPETLEKFDKFKHLKTEAEMKASEDLKKYGTVVLT
+
+
+alignment for query sequence 5 and database structure 10:
+NRYRLGRKIGSGSFGDIYLGTDIAAGEEVAIKLECVKTKHPQLHIESKIYKMMQGGVGIPTIRWCGAEGDY
+DQFERIKTLGTGSFGRVMLVKHMETGNHYAMKI-LDKQKVVKLK-QIE-HTLNEKRI-LQAVNF--PF-LV
+
+
+alignment for query sequence 6 and database structure 1:
+LGNAVR
+VSDADA
+
+
+alignment for query sequence 6 and database structure 2:
+VR
+IR
+
+
+alignment for query sequence 6 and database structure 3:
+R
+K
+
+
+alignment for query sequence 6 and database structure 4:
+AVR
+GVA
+
+
+alignment for query sequence 6 and database structure 5:
+TKTYFPHFDL-SPGSDQVRGH-GKKVLGALGNAVR
+VKTKHPQLHIESKIYKMMQGGVGIPTIRWCGAEGD
+
+
+alignment for query sequence 6 and database structure 6:
+MLTAEDKKLIQQAWEKAASHQEEFGAEALTRMFTTYPQTKTYFPHFDLSPGSDQVRGHGKKVLGALGNAVR
+MLTAEDKKLIQQAWEKAASHQEEFGAEALTRMFTTYPQTKTYFPHFDLSPGSDQVRGHGKKVLGALGNAVR
+
+
+alignment for query sequence 6 and database structure 7:
+LTAEDKKLIQQAWEKAASHQEEFGAEALTRMFTTYPQTKTYFPHFDLSPGSDQVRGHGK-KVLG-ALGNAV-R
+LSDDEWNHVLGIWAKVEPDLSAHGQEVIIRLFQLHPETQERFAKFKNLTTIDALKSSEEVKKHGTTVLTALGR
+
+
+alignment for query sequence 6 and database structure 8:
+HQE-EFGAEALTRMFTTYPQTKTYFPHFDLSPG-SDQVRGHGK-KVLGALGNAVR
+HEELGTGAFGVVHRVTERATGNNFAAKFVMTPHESDKETVRKEIQTMSVLRHPTL
+
+
+alignment for query sequence 6 and database structure 9:
+LTAEDKKLIQQAWEKAASHQEEFGAEALTRMFTTYPQTKTYFPHFDLSPGSDQVRGHGKKVLGALGNAV-R
+LSDGEWQQVLNVWGKVEADIAGHGQEVLIRLFTGHPETLEKFDKFKHLKTEAEMKA-SED-LKKYGTVVLT
+
+
+alignment for query sequence 6 and database structure 10:
+KKVLGALG-NAVR
+KRILQAVNFPFLV
+
+
+alignment for query sequence 7 and database structure 1:
+PETQERFAKFKNLTTIDALKSSEEVKKHGTTVLTALGR
+PALKDIAAKYADKDDA-ATYLAGKIKGGSSGVWGQIPM
+
+
+alignment for query sequence 7 and database structure 2:
+ALGR
+AIIR
+
+
+alignment for query sequence 7 and database structure 3:
+GR
+SK
+
+
+alignment for query sequence 7 and database structure 4:
+GR
+GV
+
+
+alignment for query sequence 7 and database structure 5:
+ALGR
+AEGD
+
+
+alignment for query sequence 7 and database structure 6:
+LSDDEWNHVLGIWAKVEPDLSAHGQEVIIRLFQLHPETQERFAKFKNLTTIDALKSSEEVKKHGTTVLTALGR
+LTAEDKKLIQQAWEKAASHQEEFGAEALTRMFTTYPQTKTYFPHFDLSPGSDQVRGHGK-KVLG-ALGNAV-R
+
+
+alignment for query sequence 7 and database structure 7:
+GLSDDEWNHVLGIWAKVEPDLSAHGQEVIIRLFQLHPETQERFAKFKNLTTIDALKSSEEVKKHGTTVLTALGR
+GLSDDEWNHVLGIWAKVEPDLSAHGQEVIIRLFQLHPETQERFAKFKNLTTIDALKSSEEVKKHGTTVLTALGR
+
+
+alignment for query sequence 7 and database structure 8:
+NHVLGIWAKVEPDLSAHGQEVIIRLFQLHPETQERFAKFKNLTTIDALKSSEEVKKHGTTVLTALGR
+DHVLDHY-DIHEELGTGAFGVVHRVTE-RATGNNFAAKF-VMTPHESDKETVRKEIQTMSVLRHPTL
+
+
+alignment for query sequence 7 and database structure 9:
+GLSDDEWNHVLGIWAKVEPDLSAHGQEVIIRLFQLHPETQERFAKFKNLTTIDALKSSEEVKKHGTTVLTALGR
+GLSDGEWQQVLNVWGKVEADIAGHGQEVLIRLFTGHPETLEKFDKFKHLKTEAEMKASEDLKKYGTVVLT----
+
+
+alignment for query sequence 7 and database structure 10:
+HPETQERFA-KFKNLTTIDALKSSEEVKKHGTTVLTA-LGR
+HMETGNHYAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPF
+
+
+alignment for query sequence 8 and database structure 1:
+TL
+NV
+
+
+alignment for query sequence 8 and database structure 2:
+L
+I
+
+
+alignment for query sequence 8 and database structure 3:
+HPTL
+KPCA
+
+
+alignment for query sequence 8 and database structure 4:
+L
+V
+
+
+alignment for query sequence 8 and database structure 5:
+DHYDIHEELGTGAFGVVHRVTERATGNNFAAKF--VMTPH-ESDKET-VRKEIQ-TMSV--LR----HPTL
+NRYRLGRKIGSGSFGDIYLGTDIAAGEEVAIKLECVKTKHPQLHIESKIYKMMQGGVGIPTIRWCGAEGDY
+
+
+alignment for query sequence 8 and database structure 6:
+HEELGTGAFGVVHRVTERATGNNFAAKFVMTPHESDKETVRKEIQTMSVLRHPTL
+HQE-EFGAEALTRMFTTYPQTKTYFPHFDLSPG-SDQVRGHGK-KVLGALGNAVR
+
+
+alignment for query sequence 8 and database structure 7:
+DHVLDHY-DIHEELGTGAFGVVHRVTE-RATGNNFAAKF-VMTPHESDKETVRKEIQTMSVLRHPTL
+NHVLGIWAKVEPDLSAHGQEVIIRLFQLHPETQERFAKFKNLTTIDALKSSEEVKKHGTTVLTALGR
+
+
+alignment for query sequence 8 and database structure 8:
+VEIKHDHVLDHYDIHEELGTGAFGVVHRVTERATGNNFAAKFVMTPHESDKETVRKEIQTMSVLRHPTL
+VEIKHDHVLDHYDIHEELGTGAFGVVHRVTERATGNNFAAKFVMTPHESDKETVRKEIQTMSVLRHPTL
+
+
+alignment for query sequence 8 and database structure 9:
+TL
+VL
+
+
+alignment for query sequence 8 and database structure 10:
+HVLDHYDIHEELGTGAFGVVHRVTERATGNNFAAKFVMTPHESD-K--ETVRKEIQTMSVLRHPTL-
+H-LDQFERIKTLGTGSFGRVMLVKHMETGNHYAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPFLV
+
+
+alignment for query sequence 9 and database structure 1:
+VLT
+VSD
+
+
+alignment for query sequence 9 and database structure 2:
+DLK-KYGTVVLT
+DVKLTQSMAIIR
+
+
+alignment for query sequence 9 and database structure 3:
+T
+S
+
+
+alignment for query sequence 9 and database structure 4:
+LT
+VA
+
+
+alignment for query sequence 9 and database structure 5:
+ADIAGHGQEVLIRLFTGHPETLEKFDKFKHLKTEAEMKASEDLKKYGTVVLT
+TDIAA-GEEVAIKLECVKTKHPQLHIESKIYKMMQGGVGIPTIRWCGAEGDY
+
+
+alignment for query sequence 9 and database structure 6:
+LSDGEWQQVLNVWGKVEADIAGHGQEVLIRLFTGHPETLEKFDKFKHLKTEAEMKA-SED-LKKYGTVVLT
+LTAEDKKLIQQAWEKAASHQEEFGAEALTRMFTTYPQTKTYFPHFDLSPGSDQVRGHGKKVLGALGNAV-R
+
+
+alignment for query sequence 9 and database structure 7:
+GLSDGEWQQVLNVWGKVEADIAGHGQEVLIRLFTGHPETLEKFDKFKHLKTEAEMKASEDLKKYGTVVLT----
+GLSDDEWNHVLGIWAKVEPDLSAHGQEVIIRLFQLHPETQERFAKFKNLTTIDALKSSEEVKKHGTTVLTALGR
+
+
+alignment for query sequence 9 and database structure 8:
+T
+T
+
+
+alignment for query sequence 9 and database structure 9:
+GLSDGEWQQVLNVWGKVEADIAGHGQEVLIRLFTGHPETLEKFDKFKHLKTEAEMKASEDLKKYGTVVLT
+GLSDGEWQQVLNVWGKVEADIAGHGQEVLIRLFTGHPETLEKFDKFKHLKTEAEMKASEDLKKYGTVVLT
+
+
+alignment for query sequence 9 and database structure 10:
+GQEVLIR-LFTGHPETLEKFDKFK--HLK-TEAEMKASEDLKKYGTVVLT
+GRVMLVKHMETGNHYAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPFLV
+
+
+alignment for query sequence 10 and database structure 1:
+V
+V
+
+
+alignment for query sequence 10 and database structure 2:
+LV
+II
+
+
+alignment for query sequence 10 and database structure 3:
+PFLV
+PCAA
+
+
+alignment for query sequence 10 and database structure 4:
+LV
+VA
+
+
+alignment for query sequence 10 and database structure 5:
+DQFERIKTLGTGSFGRVMLVKHMETGNHYAMKI-LDKQKVVKLK-QIE-HTLNEKRI-LQAVNF--PF-LV
+NRYRLGRKIGSGSFGDIYLGTDIAAGEEVAIKLECVKTKHPQLHIESKIYKMMQGGVGIPTIRWCGAEGDY
+
+
+alignment for query sequence 10 and database structure 6:
+KRILQAVNFPFLV
+KKVLGALG-NAVR
+
+
+alignment for query sequence 10 and database structure 7:
+LV
+LG
+
+
+alignment for query sequence 10 and database structure 8:
+H-LDQFERIKTLGTGSFGRVMLVKHMETGNHYAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPFLV
+HVLDHYDIHEELGTGAFGVVHRVTERATGNNFAAKFVMTPHESD-K--ETVRKEIQTMSVLRHPTL-
+
+
+alignment for query sequence 10 and database structure 9:
+GRVMLVKHMETGNHYAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPFLV
+GQEVLIR-LFTGHPETLEKFDKFK--HLK-TEAEMKASEDLKKYGTVVLT
+
+
+alignment for query sequence 10 and database structure 10:
+AQNTAHLDQFERIKTLGTGSFGRVMLVKHMETGNHYAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPFLV
+AQNTAHLDQFERIKTLGTGSFGRVMLVKHMETGNHYAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPFLV
+
+
+T(i,j):
+local alignment
+
+database sequence:	  1	  2	  3	  4	  5	  6	  7	  8	  9	 10	
+query sequence:
+	1			472	0	227	16	9	2	0	0	0	0	
+	2			0	490	2	10	0	11	10	0	7	0	
+	3			227	2	481	32	0	0	0	0	0	6	
+	4			16	10	32	478	2	3	0	0	1	1	
+	5			9	0	0	2	495	0	0	1	1	1	
+	6			2	11	0	3	0	473	60	17	54	5	
+	7			0	10	0	0	0	60	485	7	254	0	
+	8			0	0	0	0	1	17	7	455	0	63	
+	9			0	7	0	1	1	54	254	0	463	22	
+	10			0	0	6	1	1	5	0	63	22	455	
+
+
+z_score matrix:
+local alignment
+
+database sequence:	  1      2      3      4      5      6      7      8      9      10      
+query sequence:
+	1			53.68  -0.60  32.87  01.04  00.82  -0.43  -0.49  -0.44  -0.65  -0.47  
+	2			-0.48  70.46  00.17  01.20  -0.70  00.57  00.26  -0.50  00.38  -0.55  
+	3			32.47  -0.10  47.71  04.65  -0.59  -0.60  -0.58  -0.63  -0.65  00.94  
+	4			00.59  01.52  03.24  63.05  -0.41  -0.25  -0.59  -0.45  -0.38  -0.34  
+	5			01.29  -0.55  -0.47  -0.21  71.90  -0.85  -0.59  -0.30  -0.29  -0.16  
+	6			-0.03  00.11  -0.50  -0.02  -0.65  65.34  07.50  02.15  07.99  00.95  
+	7			-0.61  00.12  -0.38  -0.56  -0.56  07.67  101.26  00.82  41.76  -0.57  
+	8			-0.53  -0.51  -0.39  -0.72  -0.39  05.35  00.49  65.27  -0.74  12.38  
+	9			-0.80  00.66  -0.50  -0.47  -0.49  07.51  38.59  -0.65  57.25  03.14  
+	10			-0.55  -0.58  00.69  -0.41  -0.24  00.40  -0.63  08.30  03.54  46.72  
