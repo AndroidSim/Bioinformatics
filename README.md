@@ -6,8 +6,7 @@ In the directory, Sequence-2-Structure, is a program written to do a single alig
 ### Gene Expression
 
 ## Threading: protein structure prediction from sequence
-### LOOPP Project website:
-http://cbsu.tc.cornell.edu/software/loopp/loopp_doc.html
+[LOOPP Project](http://cbsu.tc.cornell.edu/software/loopp/loopp_doc.html)
 
 Because it was long ago, I do not remember much of my involvment with this project. From some of the Perl scripts that I wrote, it has something to do with optimizing certain parameters for aligning two protein structures. I would have to review these files again to get a better understanding.
 
